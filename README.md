@@ -15,6 +15,11 @@ Research:
 - - Red - Busy Signal
 - - Green - Available (If Battery powered then no lights/deep sleep mode to conserve power)
 - - Blue - Motion Detected
+- a way to disable motion notifications 
+- - simple switch on/off
+- - latching button 
+- - secret combo: press red twice then green once yo enable
+motion and red 2 and hreen 2 to disbale motion notifications 
 
 
 
