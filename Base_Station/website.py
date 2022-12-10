@@ -6,7 +6,7 @@ html = """<!DOCTYPE html><html>
 .buttonRed { background-color: #D11D53; border: 2px solid #000000;; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; }
 text-decoration: none; font-size: 30px; margin: 2px; cursor: pointer;}
 </style></head>
-<body><center><h1>Busy or Available Remote Station</h1></center>
+<body><center><h1>Busy or Available Base Station</h1></center>
 
 <form><center>
 <p><h2>%s<p>
@@ -21,4 +21,6 @@ text-decoration: none; font-size: 30px; margin: 2px; cursor: pointer;}
 <br><br>
 </body></html>
 """
+
+
 

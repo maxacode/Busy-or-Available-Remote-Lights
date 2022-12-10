@@ -56,3 +56,4 @@ def connectWLAN():
         return(ipInfo)
     
 connectWLAN()
+
